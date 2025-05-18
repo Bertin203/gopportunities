@@ -9,3 +9,4 @@ func Initialize() {
 
 	router.Run(":8080") // run the server
 }
+	
